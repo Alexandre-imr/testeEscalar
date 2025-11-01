@@ -22,7 +22,7 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
     (Lembre-se de trocar pela URL do seu repositório)
 
     ```bash
-    git clone https://github.com/SEU-USUARIO/testeEscalar.git
+    git clone https://github.com/Alexandre-imr/testeEscalar.git
     cd testeEscalar
     ```
 
