@@ -35,6 +35,11 @@ Siga os passos abaixo para executar o projeto em seu ambiente local.
 3.  **Configure o arquivo de ambiente:**
     Copie o arquivo de exemplo `.env.example` para um novo arquivo chamado `.env`.
 
+    *No Windows (CMD/PowerShell):*
+    ```bash
+    copy .env.example .env
+    ```
+    *No macOS/Linux:*
     ```bash
     cp .env.example .env
     ```
